@@ -1,0 +1,12 @@
+E:\Apps\trunk\BuySell\BuySellApi.Data\bin\Release\netstandard2.0\BuySellApi.Data.deps.json
+E:\Apps\trunk\BuySell\BuySellApi.Data\bin\Release\netstandard2.0\BuySellApi.Data.dll
+E:\Apps\trunk\BuySell\BuySellApi.Data\bin\Release\netstandard2.0\BuySellApi.Data.pdb
+E:\Apps\trunk\BuySell\BuySellApi.Data\bin\Release\netstandard2.0\BuySellApi.Core.dll
+E:\Apps\trunk\BuySell\BuySellApi.Data\bin\Release\netstandard2.0\BuySellApi.Core.pdb
+E:\Apps\trunk\BuySell\BuySellApi.Data\obj\Release\netstandard2.0\BuySellApi.Data.csprojAssemblyReference.cache
+E:\Apps\trunk\BuySell\BuySellApi.Data\obj\Release\netstandard2.0\BuySellApi.Data.csproj.CoreCompileInputs.cache
+E:\Apps\trunk\BuySell\BuySellApi.Data\obj\Release\netstandard2.0\BuySellApi.Data.AssemblyInfoInputs.cache
+E:\Apps\trunk\BuySell\BuySellApi.Data\obj\Release\netstandard2.0\BuySellApi.Data.AssemblyInfo.cs
+E:\Apps\trunk\BuySell\BuySellApi.Data\obj\Release\netstandard2.0\BuySellApi.Data.csproj.CopyComplete
+E:\Apps\trunk\BuySell\BuySellApi.Data\obj\Release\netstandard2.0\BuySellApi.Data.dll
+E:\Apps\trunk\BuySell\BuySellApi.Data\obj\Release\netstandard2.0\BuySellApi.Data.pdb

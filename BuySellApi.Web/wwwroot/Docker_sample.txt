@@ -1,0 +1,21 @@
+FROM mcr.microsoft.com/dotnet/core/aspnet:2.2-nanoserver-sac2016 AS base
+WORKDIR /app
+EXPOSE 80
+
+FROM mcr.microsoft.com/dotnet/core/sdk:2.2-nanoserver-sac2016 AS build
+WORKDIR /src
+COPY ["BuySellApi/BuySellApi.csproj", "BuySellApi/"]
+COPY ["BuySellApi.Data/BuySellApi.Data.csproj", "BuySellApi.Data/"]
+COPY ["BuySellApi.Core/BuySellApi.Core.csproj", "BuySellApi.Core/"]
+RUN dotnet restore "BuySellApi/BuySellApi.csproj"
+COPY . .
+WORKDIR "/src/BuySellApi"
+RUN dotnet build "BuySellApi.csproj" -c Release -o /app
+
+FROM build AS publish
+RUN dotnet publish "BuySellApi.csproj" -c Release -o /app
+
+FROM base AS final
+WORKDIR /app
+COPY --from=publish /app .
+ENTRYPOINT ["dotnet", "BuySellApi.dll"]

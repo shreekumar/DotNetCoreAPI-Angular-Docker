@@ -1,0 +1,40 @@
+.Net Core API Best Practices:" (.net core API URL format best practices)
+--------------------------------
+https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
+https://code-maze.com/aspnetcore-webapi-best-practices/
+https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-implementation
+https://medium.freecodecamp.org/an-awesome-guide-on-how-to-build-restful-apis-with-asp-net-core-87b818123e28
+
+
+Bootstrap":
+-------------------------------------------------
+https://loiane.com/2017/08/how-to-add-bootstrap-to-an-angular-cli-project/
+https://medium.com/@swarnakishore/how-to-include-and-use-jquery-in-angular-cli-project-592e0fe63176
+https://github.com/SwarnaKishore/jQuery_with_AngularCLI/tree/master/src/app
+
+
+Angular API Consumtion Samples:
+--------------------------------------------------
+https://github.com/SinghDigamber/angular-httpclient-app/blob/master/src/app/app-routing.module.ts
+https://www.positronx.io/angular-7-httpclient-http-service/
+https://www.djamware.com/post/5b87894280aca74669894414/angular-6-httpclient-consume-restful-api-example
+
+
+Angular with Core:
+-------------------------------------
+https://dzone.com/articles/creating-an-angular-7-app-with-aspnet-core-a-step-1
+https://www.c-sharpcorner.com/article/getting-started-with-angular5-and-asp-net-core/
+
+
+Docker":
+------------------------------------------------------
+https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/docker/building-net-docker-images?view=aspnetcore-2.2
+https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/docker/visual-studio-tools-for-docker?view=aspnetcore-2.2
+https://docs.docker.com/samples/
+https://github.com/docker/labs/blob/master/windows/readme.md
+https://github.com/docker/labs/blob/master/windows/aspnet-web/README.md
+https://docs.microsoft.com/en-us/dotnet/core/docker/build-container
+https://www.katacoda.com/courses/dotnet-in-docker/deploying-aspnet-core-as-docker-container
+https://medium.com/front-end-weekly/net-core-web-api-with-docker-compose-postgresql-and-ef-core-21f47351224f
+https://www.hanselman.com/blog/NETCoreAndDocker.aspx
+https://stackoverflow.com/questions/42866013/docker-toolbox-localhost-not-working

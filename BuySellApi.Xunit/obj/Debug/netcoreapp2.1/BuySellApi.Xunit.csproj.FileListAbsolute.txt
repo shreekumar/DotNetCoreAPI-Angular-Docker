@@ -1,0 +1,14 @@
+E:\Apps\trunk\BuySell\BuySellApi.Xunit\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Apps\trunk\BuySell\BuySellApi.Xunit\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+E:\Apps\trunk\BuySell\BuySellApi.Xunit\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+E:\Apps\trunk\BuySell\BuySellApi.Xunit\bin\Debug\netcoreapp2.1\BuySellApi.Xunit.deps.json
+E:\Apps\trunk\BuySell\BuySellApi.Xunit\bin\Debug\netcoreapp2.1\BuySellApi.Xunit.runtimeconfig.json
+E:\Apps\trunk\BuySell\BuySellApi.Xunit\bin\Debug\netcoreapp2.1\BuySellApi.Xunit.runtimeconfig.dev.json
+E:\Apps\trunk\BuySell\BuySellApi.Xunit\bin\Debug\netcoreapp2.1\BuySellApi.Xunit.dll
+E:\Apps\trunk\BuySell\BuySellApi.Xunit\bin\Debug\netcoreapp2.1\BuySellApi.Xunit.pdb
+E:\Apps\trunk\BuySell\BuySellApi.Xunit\obj\Debug\netcoreapp2.1\BuySellApi.Xunit.csprojAssemblyReference.cache
+E:\Apps\trunk\BuySell\BuySellApi.Xunit\obj\Debug\netcoreapp2.1\BuySellApi.Xunit.csproj.CoreCompileInputs.cache
+E:\Apps\trunk\BuySell\BuySellApi.Xunit\obj\Debug\netcoreapp2.1\BuySellApi.Xunit.AssemblyInfoInputs.cache
+E:\Apps\trunk\BuySell\BuySellApi.Xunit\obj\Debug\netcoreapp2.1\BuySellApi.Xunit.AssemblyInfo.cs
+E:\Apps\trunk\BuySell\BuySellApi.Xunit\obj\Debug\netcoreapp2.1\BuySellApi.Xunit.dll
+E:\Apps\trunk\BuySell\BuySellApi.Xunit\obj\Debug\netcoreapp2.1\BuySellApi.Xunit.pdb

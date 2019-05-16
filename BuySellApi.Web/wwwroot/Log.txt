@@ -1,0 +1,123 @@
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+E:\Apps\trunk\BuySell\BuySellApi.Web\ClientApp>ng serve -o
+Could not find module "@angular-devkit/build-angular" from "E:\\Apps\\trunk\\Buy
+Sell\\BuySellApi.Web\\ClientApp".
+Error: Could not find module "@angular-devkit/build-angular" from "E:\\Apps\\tru
+nk\\BuySell\\BuySellApi.Web\\ClientApp".
+    at Object.resolve (C:\Users\shreekumar.s\AppData\Roaming\npm\node_modules\@a
+ngular\cli\node_modules\@angular-devkit\core\node\resolve.js:141:11)
+    at Observable.rxjs_1.Observable [as _subscribe] (C:\Users\shreekumar.s\AppDa
+ta\Roaming\npm\node_modules\@angular\cli\node_modules\@angular-devkit\architect\
+src\architect-legacy.js:153:40)
+    at Observable._trySubscribe (C:\Users\shreekumar.s\AppData\Roaming\npm\node_
+modules\@angular\cli\node_modules\rxjs\internal\Observable.js:44:25)
+    at Observable.subscribe (C:\Users\shreekumar.s\AppData\Roaming\npm\node_modu
+les\@angular\cli\node_modules\rxjs\internal\Observable.js:30:22)
+    at C:\Users\shreekumar.s\AppData\Roaming\npm\node_modules\@angular\cli\node_
+modules\rxjs\internal\Observable.js:99:19
+    at new Promise (<anonymous>)
+    at Observable.toPromise (C:\Users\shreekumar.s\AppData\Roaming\npm\node_modu
+les\@angular\cli\node_modules\rxjs\internal\Observable.js:97:16)
+    at ServeCommand.initialize (C:\Users\shreekumar.s\AppData\Roaming\npm\node_m
+odules\@angular\cli\models\architect-command.js:67:96)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:757:11)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)
+
+E:\Apps\trunk\BuySell\BuySellApi.Web\ClientApp>ng serve -o
+Could not find module "@angular-devkit/build-angular" from "E:\\Apps\\trunk\\BuySell\\BuySellApi.Web\\ClientApp".
+Error: Could not find module "@angular-devkit/build-angular" from "E:\\Apps\\trunk\\BuySell\\BuySellApi.Web\\ClientApp".
+    at Object.resolve (C:\Users\shreekumar.s\AppData\Roaming\npm\node_modules\@angular\cli\node_modules\@angular-devkit\core\node\resolve.js:141:11)
+    at Observable.rxjs_1.Observable [as _subscribe] (C:\Users\shreekumar.s\AppData\Roaming\npm\node_modules\@angular\cli\node_modules\@angular-devkit\
+architect\src\architect-legacy.js:153:40)
+    at Observable._trySubscribe (C:\Users\shreekumar.s\AppData\Roaming\npm\node_modules\@angular\cli\node_modules\rxjs\internal\Observable.js:44:25)
+    at Observable.subscribe (C:\Users\shreekumar.s\AppData\Roaming\npm\node_modules\@angular\cli\node_modules\rxjs\internal\Observable.js:30:22)
+    at C:\Users\shreekumar.s\AppData\Roaming\npm\node_modules\@angular\cli\node_modules\rxjs\internal\Observable.js:99:19
+    at new Promise (<anonymous>)
+    at Observable.toPromise (C:\Users\shreekumar.s\AppData\Roaming\npm\node_modules\@angular\cli\node_modules\rxjs\internal\Observable.js:97:16)
+    at ServeCommand.initialize (C:\Users\shreekumar.s\AppData\Roaming\npm\node_modules\@angular\cli\models\architect-command.js:67:96)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:757:11)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)
+
+E:\Apps\trunk\BuySell\BuySellApi.Web\ClientApp>
+E:\Apps\trunk\BuySell\BuySellApi.Web\ClientApp>npm install -g @angular/cli
+npm WARN registry Unexpected warning for https://registry.npmjs.org/: Miscellaneous Warning ECONNREFUSED: request to https://registry.npmjs.org/@angul
+ar%2fcli failed, reason: connect ECONNREFUSED 104.16.19.35:443
+npm WARN registry Using stale package data from https://registry.npmjs.org/ due to a request error during revalidation.
+Terminate batch job (Y/N)? y
+
+E:\Apps\trunk\BuySell\BuySellApi.Web\ClientApp>npm --proxy http://shreekumar.s:$VCity%40123@10.0.100.4:8080 install r-script
+
+> node-sass@4.9.3 install E:\Apps\trunk\BuySell\BuySellApi.Web\ClientApp\node_modules\node-sass
+> node scripts/install.js
+
+Downloading binary from https://github.com/sass/node-sass/releases/download/v4.9.3/win32-x64-64_binding.node
+Download complete  ] - :
+Binary saved to E:\Apps\trunk\BuySell\BuySellApi.Web\ClientApp\node_modules\node-sass\vendor\win32-x64-64\binding.node
+Caching binary to C:\Users\shreekumar.s\AppData\Roaming\npm-cache\node-sass\4.9.3\win32-x64-64_binding.node
+
+> node-sass@4.9.3 postinstall E:\Apps\trunk\BuySell\BuySellApi.Web\ClientApp\node_modules\node-sass
+> node scripts/build.js
+
+Binary found at E:\Apps\trunk\BuySell\BuySellApi.Web\ClientApp\node_modules\node-sass\vendor\win32-x64-64\binding.node
+Testing binary
+Binary is fine
+
+> @angular/cli@6.0.8 postinstall E:\Apps\trunk\BuySell\BuySellApi.Web\ClientApp\node_modules\@angular\cli
+> node ./bin/ng-update-message.js
+
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.4 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.4: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","ar
+ch":"x64"})
+
++ r-script@0.0.3
+added 1110 packages from 1339 contributors in 278.381s
+
+E:\Apps\trunk\BuySell\BuySellApi.Web\ClientApp>ng serve -o
+Your global Angular CLI version (7.3.8) is greater than your local
+version (6.0.8). The local Angular CLI version is used.
+
+To disable this warning use "ng config -g cli.warnings.versionMismatch false".
+Port 4200 is already in use. Use '--port' to specify a different port.
+
+E:\Apps\trunk\BuySell\BuySellApi.Web\ClientApp>ng serve -o
+Your global Angular CLI version (7.3.8) is greater than your local
+version (6.0.8). The local Angular CLI version is used.
+
+To disable this warning use "ng config -g cli.warnings.versionMismatch false".
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+
+Date: 2019-04-30T07:56:17.158Z
+Hash: 231f95b2873c84877d15
+Time: 11176ms
+chunk {main} main.js, main.js.map (main) 26.4 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 227 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 5.22 kB [entry] [rendered]
+chunk {styles} styles.css, styles.css.map (styles) 130 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 3.86 MB [initial] [rendered]
+i ?wdm?: Compiled successfully.
+i ?wdm?: Compiling...
+
+Date: 2019-04-30T08:58:14.244Z - Hash: 83e0702584480cd9d3ee - Time: 215ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 26.4 kB [initial] [rendered]
+i ?wdm?: Compiled successfully.
+i ?wdm?: Compiling...
+
+Date: 2019-04-30T08:59:51.394Z - Hash: 83e0702584480cd9d3ee - Time: 260ms
+5 unchanged chunks
+i ?wdm?: Compiled successfully.
+Terminate batch job (Y/N)? y
+
+E:\Apps\trunk\BuySell\BuySellApi.Web\ClientApp>
+
+E:\Apps\trunk\BuySell\BuySellApi.Web\ClientApp>
+
+
+
+npm config set https-proxy http://shreekumar.s:$VCity%40123@10.0.100.4:8080

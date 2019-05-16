@@ -1,0 +1,9 @@
+E:\Apps\trunk\BuySell\BuySellApi.Core\bin\Debug\netstandard2.0\BuySellApi.Core.deps.json
+E:\Apps\trunk\BuySell\BuySellApi.Core\bin\Debug\netstandard2.0\BuySellApi.Core.dll
+E:\Apps\trunk\BuySell\BuySellApi.Core\bin\Debug\netstandard2.0\BuySellApi.Core.pdb
+E:\Apps\trunk\BuySell\BuySellApi.Core\obj\Debug\netstandard2.0\BuySellApi.Core.csprojAssemblyReference.cache
+E:\Apps\trunk\BuySell\BuySellApi.Core\obj\Debug\netstandard2.0\BuySellApi.Core.csproj.CoreCompileInputs.cache
+E:\Apps\trunk\BuySell\BuySellApi.Core\obj\Debug\netstandard2.0\BuySellApi.Core.AssemblyInfoInputs.cache
+E:\Apps\trunk\BuySell\BuySellApi.Core\obj\Debug\netstandard2.0\BuySellApi.Core.AssemblyInfo.cs
+E:\Apps\trunk\BuySell\BuySellApi.Core\obj\Debug\netstandard2.0\BuySellApi.Core.dll
+E:\Apps\trunk\BuySell\BuySellApi.Core\obj\Debug\netstandard2.0\BuySellApi.Core.pdb
